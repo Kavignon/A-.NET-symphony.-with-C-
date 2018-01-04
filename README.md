@@ -10,7 +10,7 @@ There are many programming languages that will enable you, as a software develop
 
 ## About this book
 
-Right now, you embarking on a new journey. Software development is a world in itself and it is incredibly interesting. You have to understand all the tremendous power you will have acquired after reading this book. I will show you the basics in the books concerning software development. After this, you decide what you want to do. You can decide to only use your newly gained knowledge to automate annoying things that you don't feel like doing over and over. You can use this book as a stepping stone for a career as computer science student or software engineering student and focus on subjects that were cover briefly in this book. You should take this book as an entry point into programming projects you'd like to tackle.
+Right now, you're embarking on a new journey. Software development is a world in itself and it is incredibly interesting. You have to understand all the tremendous power you will have acquired after reading this book. I will show you the basics in the books concerning software development. After this, you decide what you want to do. You can decide to only use your newly gained knowledge to automate annoying things that you don't feel like doing over and over. You can use this book as a stepping stone for a career as computer science student or software engineering student and focus on subjects that were cover briefly in this book. You should take this book as an entry point into programming projects you'd like to tackle.
 
 ## Who should read this book
 
@@ -21,6 +21,4 @@ This for book is aim for people who have absolutely no knowledge of programming,
 As mentioned before, I will show the basics of software development with C\#. I firmly believe that you get to understand more about what you learn by doing. With that idea in mind, the book will also have projects. Each section concerning projects will introduce the purpose of the project and what you get to learn while building it alongside the book. For instance, you will be able to build both a web and mobile applications amongst the projects in the book.
 
 The first part of the book will introduce the syntax and oriented object programming with C\# and we'll then move to a how to build our very own todo list console application. In the second part of the book, I will show you C\# features in order to have a clean logic while writing iteration statement and how to test your code to increase maintainability of your code. In the third and final section of the book, you will create a web app, a desktop app and a mobile application. All with C\#. You will also get to learn some helpful tips and tricks concerning gotchas and features of C\#.
-
-
 
